@@ -1,10 +1,12 @@
-# AI Finance Agent 💹
+# AI Finance Agent
 
-A free, privacy-preserving AI-powered portfolio analysis and investment research agent. Integrates real-time stock data, news sentiment, technical analysis, and conversational AI (local LLM via Ollama) – all in a beautiful Streamlit dashboard.
+## About
+
+AI Finance Agent is a free, privacy-focused portfolio analysis and investment research platform designed for individual investors, finance enthusiasts, and developers. The project combines real-time stock data, news sentiment analysis, technical indicators, and a conversational AI assistant powered by local large language models (LLMs) via Ollama. The platform is built with Streamlit for an intuitive web interface and is intended to help users make better investment decisions without sacrificing privacy or incurring API costs.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Conversational AI Agent:**
   - Chat with a local LLM (Ollama) for personalized investment research and portfolio Q&A.
@@ -19,13 +21,13 @@ A free, privacy-preserving AI-powered portfolio analysis and investment research
 
 ---
 
-## 🖥️ Demo
+## Demo
 
 ![Dashboard Screenshot](demo_screenshot.png)
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. **Clone the Repository**
 ```bash
@@ -64,7 +66,7 @@ Then, open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🧠 Usage
+## Usage
 - **Portfolio Overview:**
   - Add/remove stocks, view diversification, Sharpe ratio, and volatility.
 - **Technical Analysis:**
@@ -79,7 +81,7 @@ Then, open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 📝 Project Structure
+## Project Structure
 ```
 ├── agent.py                # LangChain agent logic (Ollama LLM, tools, prompt)
 ├── ai_analysis.py          # Technical indicator calculations
@@ -92,7 +94,7 @@ Then, open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🤖 Tech Stack
+## Tech Stack
 - **Python 3.8+**
 - **Streamlit** – UI
 - **LangChain** – Agent orchestration
@@ -103,27 +105,27 @@ Then, open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🛡️ Privacy & Cost
+## Privacy & Cost
 - All LLM inference is local (no OpenAI API required).
 - Your financial data never leaves your machine.
 - Free to use, no API costs for LLM.
 
 ---
 
-## 🙋‍♂️ Contributing
+## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
+## License
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 💼 Author
+## Author
 - [FDC0178](https://github.com/FDC0178)
 
 ---
 
-## ⭐️ If you like this project...
+## If you like this project...
 Give it a star on GitHub and add it to your resume/portfolio!
