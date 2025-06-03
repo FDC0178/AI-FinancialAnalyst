@@ -125,7 +125,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Author
 - [FDC0178](https://github.com/FDC0178)
 
----
 
-## If you like this project...
-Give it a star on GitHub and add it to your resume/portfolio!
